@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "Headphones Samsung",
+      "description": "Ultra Bass",
+      "price": 49163,
+      "url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHByb2R1Y3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "sku": "CA-2534U",
+      "stock": 2
+    },
+    {
+      "title": "Smart Watch",
+      "description": "Model 34",
+      "price": 34567,
+      "url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "sku": "LK-44H",
+      "stock": 10
+    },
+    {
+      "title": "Camera Nikon",
+      "description": "Model 750",
+      "price": 356345,
+      "url": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+      "sku": "HY-9927L",
+      "stock": 78
+    }
+  ]
+}
